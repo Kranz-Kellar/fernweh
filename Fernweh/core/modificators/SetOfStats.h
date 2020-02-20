@@ -5,6 +5,7 @@
 namespace Fernweh {
 	class SetOfStats
 	{
+	public:
 		std::map<Stats::Id, Stat> stats;
 	};
 }

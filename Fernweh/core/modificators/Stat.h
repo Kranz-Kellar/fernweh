@@ -3,6 +3,7 @@
 namespace Fernweh {
 	class Stat
 	{
+	public:
 		int statId;
 		int value;
 
